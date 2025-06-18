@@ -51,8 +51,8 @@ requirements.txt
 
 ```bash
 # Clone this repo
-$ git clone https://github.com/yourusername/smart-surveillance-system
-$ cd smart-surveillance-system
+$ git clone https://github.com/rahuly-2023/Smart_Surveillance_System
+$ cd Smart_Surveillance_System
 
 # Install dependencies
 $ pip install -r requirements.txt
